@@ -23,6 +23,6 @@
   "background_color": "#242424",
   "display": "standalone",
   "scope": "/qr-thing/",
-  "theme_color": "#3367D6",
+  "theme_color": "#242424",
   "description": "Pwa to generate MeCard codes"
 }
