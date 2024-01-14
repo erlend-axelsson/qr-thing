@@ -1,2 +1,2 @@
 # qr-thing
-a qr thing to generate meCard qr codes
+quick and "dirty" branch to deploy to GitHub pages
