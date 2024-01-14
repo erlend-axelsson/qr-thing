@@ -18,11 +18,11 @@
       "sizes": "512x512"
     }
   ],
-  "id": "/",
-  "start_url": "/",
+  "id": "/qr-thing/",
+  "start_url": "/qr-thing/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/qr-thing/",
   "theme_color": "#3367D6",
   "description": "Pwa to generate MeCard codes"
 }
