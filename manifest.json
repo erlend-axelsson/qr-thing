@@ -20,7 +20,7 @@
   ],
   "id": "/qr-thing/",
   "start_url": "/qr-thing/",
-  "background_color": "#3367D6",
+  "background_color": "#242424",
   "display": "standalone",
   "scope": "/qr-thing/",
   "theme_color": "#3367D6",
